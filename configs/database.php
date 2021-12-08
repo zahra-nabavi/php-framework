@@ -1,0 +1,5 @@
+<?php
+CONST SERVER_NAME='localhost';
+CONST DB_NAME='news';
+CONST DB_USER_NAME='root';
+CONST DB_USER_PASSWORD='';

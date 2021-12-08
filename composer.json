@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "classmap": ["controllers"],
+        "files": [
+            "routers.php"
+        ]
+
+    },
+    "require": {
+        "bramus/router": "~1.6"
+    }
+}
