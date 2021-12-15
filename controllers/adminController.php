@@ -6,7 +6,6 @@ class adminController
 {
     function admin()
     {
-
        /* $loginStatus=checkLogin('user-id');
         if(!$loginStatus) redirect('index.php/login');*/
 
